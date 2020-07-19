@@ -1,6 +1,8 @@
 # Neuromorphic-Digit-Classification
  **Simple Python simulation of a one-hidden-layer spiking neural network for digit classification on sklearn's "digits" dataset.**
- 
+
+The topology of the network is shown in the figure below. The input image is first **flatten and rescaled**. The resulting vector is then **fully-connected to 256 LIF neurons** (with bias current source as well), the weights for each neuron are **randomly sampled from the unit hypersphere**. The spike trains of each neuron are then filtered using **PSC kernels**. The time-dependent output vector "p(t)" is then **decoded using a linear decoder "A" learned via ridge-regression**. The result is a **one-hot encoded vector "d(t)"** representing the class of the input image. 
+
 ![Alt text](Network_topo.png?raw=true "SNN topology") 
 
 **Output 1: Accuracy of the SNN in function of time**
