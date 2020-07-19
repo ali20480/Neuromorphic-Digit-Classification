@@ -6,3 +6,9 @@
 Digit images are shown to the network at the **0.025 second time instant**, the inference accuracy of the network on the test set rises to **90%** in about **10 milliseconds**.
 
 ![Alt text](Accuracy_evo.png?raw=true "Accuracy of the model in function of time")
+
+**Output 2: Network activity**
+
+The following plot shows the spiking activity of the network for an input image representing the digit **0**. The image is shown to the network at the **0.025 second time instant** therefore there is **no activity** before that instant. Even when the image is shown, the **spatio-temporal activity of the network is sparse** which illustrates well the fact that **event-based neuromorphic hardware are well-suited for ultra-low energy consumption figures**.
+
+![Alt text](neural_act.png?raw=true "Network activity")
