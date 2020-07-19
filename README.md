@@ -22,12 +22,16 @@ The following raster plot shows the spiking activity (256 neurons) of the networ
 May you use this work, please cite:
 
 ```
-@misc{ali_safa_2020_1,
-    author       = {Ali Safa},
-    title        = {{Digit Classification Using a One-Hidden-Layer Spiking Neural Network}},
-    month        = July,
-    year         = 2020,
-    publisher    = {GitHub},
-    howpublished = {\url{https://github.com/ali20480/Neuromorphic-Digit-Classification}}
-    }
+@software{ali_safa_2020_3951560,
+  author       = {Ali Safa},
+  title        = {{ali20480/Neuromorphic-Digit-Classification: Digit 
+                   Classification Using a One-Hidden-Layer Spiking
+                   Neural Network}},
+  month        = jul,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {V1.0},
+  doi          = {10.5281/zenodo.3951560},
+  url          = {https://doi.org/10.5281/zenodo.3951560}
+}
 ```
