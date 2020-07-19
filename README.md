@@ -3,6 +3,8 @@
  
 **Output 1: Accuracy of the SNN in function of time**
 
-Digit images are shown to the network at the **0.025 second time instant**, the inference accuracy of the network on the test set rises to **90%** in about **10 milliseconds**. 
+Digit images are shown to the network at the **0.025 second time instant**, the inference accuracy of the network on the test set rises to **90%** in about **10 milliseconds**.
+
+![Alt text](in_img.png?raw=true "Example of input image")
 
 ![Alt text](Accuracy_evo.png?raw=true "Accuracy of the model in function of time")
