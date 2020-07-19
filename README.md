@@ -21,7 +21,7 @@ The following raster plot shows the spiking activity (256 neurons) of the networ
 
 If you use this work, please cite:
 
-**Ali Safa. (2020). Digit Classification Using a One-Hidden-Layer Spiking Neural Network. https://doi.org/10.5281/zenodo.3951560.**
+**Ali Safa. (2020). Digit Classification Using a One-Hidden-Layer Spiking Neural Network. http://doi.org/10.5281/zenodo.3951585.**
 
 ```
 @misc{ali_safa_2020_3951560,
@@ -32,6 +32,6 @@ If you use this work, please cite:
   year         = 2020,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.3951560},
-  howpublished = {\url{https://doi.org/10.5281/zenodo.3951560}}
+  howpublished = {\url{http://doi.org/10.5281/zenodo.3951585}}
 }
 ```
