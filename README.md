@@ -1,5 +1,5 @@
 # Neuromorphic-Digit-Classification
- Simple Python simulation of a one-hidden-layer spiking neural network for digit classification on sklearn's "digits" dataset.
+ **Simple Python simulation of a one-hidden-layer spiking neural network for digit classification on sklearn's "digits" dataset.**
  
 **Output 1: Accuracy of the SNN in function of time**
 
