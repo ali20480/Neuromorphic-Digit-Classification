@@ -17,6 +17,8 @@ The following raster plot shows the spiking activity (256 neurons) of the networ
 
 ![Alt text](visuals/neural_act.png?raw=true "Network activity")
 
+# How to cite
+
 May you use this work, please cite:
 
 ```
@@ -26,6 +28,6 @@ May you use this work, please cite:
     month        = July,
     year         = 2020,
     publisher    = {GitHub},
-    url          = {https://github.com/ali20480/Neuromorphic-Digit-Classification}
+    howpublished = {\url{https://github.com/ali20480/Neuromorphic-Digit-Classification}}
     }
 ```
