@@ -24,13 +24,12 @@ May you use this work, please cite:
 ```
 @software{ali_safa_2020_3951560,
   author       = {Ali Safa},
-  title        = {{ali20480/Neuromorphic-Digit-Classification: Digit 
+  title        = {{Neuromorphic-Digit-Classification: Digit 
                    Classification Using a One-Hidden-Layer Spiking
                    Neural Network}},
   month        = jul,
   year         = 2020,
   publisher    = {Zenodo},
-  version      = {V1.0},
   doi          = {10.5281/zenodo.3951560},
   url          = {https://doi.org/10.5281/zenodo.3951560}
 }
