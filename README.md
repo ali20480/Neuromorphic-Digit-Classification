@@ -26,6 +26,6 @@ May you use this work, please cite:
     month        = July,
     year         = 2020,
     publisher    = {GitHub},
-    url          = {https://doi.org/10.5281/zenodo.15991}
+    url          = {https://github.com/ali20480/Neuromorphic-Digit-Classification}
     }
 ```
