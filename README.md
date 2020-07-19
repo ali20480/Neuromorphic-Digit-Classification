@@ -16,3 +16,16 @@ Digit images are shown to the network at the **0.025 second time instant**, the 
 The following raster plot shows the spiking activity (256 neurons) of the network for an **input image representing the digit "0"**. The image is shown to the network at the **0.025 second time instant** therefore there is **no activity** before that instant. Even when the image is shown, the **spatio-temporal activity of the network is sparse**. Lack of any activity when no image is shown and sparsity of the network activity when an image is shown illustrate the fact that **event-based neuromorphic architectures are well-suited for ultra-low energy consumption figures when running on dedicated hardware**.
 
 ![Alt text](visuals/neural_act.png?raw=true "Network activity")
+
+May you use this work, please cite:
+
+```
+@misc{ali_safa_2020_1,
+    author       = {Ali Safa},
+    title        = {{Digit Classification Using a One-Hidden-Layer Spiking Neural Network}},
+    month        = July,
+    year         = 2020,
+    publisher    = {GitHub},
+    url          = {https://doi.org/10.5281/zenodo.15991}
+    }
+```
